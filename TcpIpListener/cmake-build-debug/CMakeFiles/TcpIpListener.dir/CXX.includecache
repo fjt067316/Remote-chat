@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Josh/TcpIpListener/TcpListener.cpp
+iostream
+-
+Tcplistener.h
+C:/Users/Josh/TcpIpListener/Tcplistener.h
+
+C:/Users/Josh/TcpIpListener/Tcplistener.h
+WS2tcpip.h
+-
+string
+-
+
